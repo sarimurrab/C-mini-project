@@ -1,2 +1,1 @@
-# Sarim-Chaudhary
-student at Jamia Millia Islamia
+My First C Graphics mini project
